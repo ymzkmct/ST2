@@ -1,0 +1,12 @@
+{
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"jQuery",
+		"Vintage",
+		"Image2Base64",
+		"TypeScript",
+		"HTML5"
+	],
+	"translate_tabs_to_spaces": true
+}
