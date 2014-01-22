@@ -8,5 +8,10 @@
 		"TypeScript",
 		"HTML5"
 	],
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true,
+	"tab_size": 4,
+	"line_padding_top": 2,
+	"word_wrap": true
 }
