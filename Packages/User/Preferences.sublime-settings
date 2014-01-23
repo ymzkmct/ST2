@@ -13,5 +13,12 @@
 	"trim_trailing_white_space_on_save": true,
 	"tab_size": 4,
 	"line_padding_top": 2,
-	"word_wrap": true
+	"word_wrap": true,
+	/* indent */
+	"detect_indentation": true,
+	"auto_indent": true,
+	"smart_indent": true,
+	"indent_to_bracket": false,
+	"trim_automatic_white_space": true,
+	"draw_indent_guides": true
 }
